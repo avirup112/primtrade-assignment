@@ -181,20 +181,3 @@ K-Means clustering identifies four behavioral profiles regardless of market cond
 | `scikit-learn` | Random Forest, K-Means, StandardScaler, cross-validation |
 
 ---
-
-## 📋 Evaluation Checklist
-
-| Criterion | Status |
-|---|---|
-| Data cleaning + correct merge/alignment | ✅ |
-| Missing value & duplicate documentation | ✅ |
-| Strength of reasoning (not just plots) | ✅ |
-| Actionable, non-generic insights | ✅ |
-| Structured write-up with methodology | ✅ |
-| Reproducible notebook with clear steps | ✅ |
-| Bonus — predictive model | ✅ |
-| Bonus — trader clustering | ✅ |
-
----
-
-*Submitted for Primetrade.ai Data Science Intern — Round 0 Assignment*
